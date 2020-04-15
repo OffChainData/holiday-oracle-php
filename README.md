@@ -10,13 +10,13 @@ The Holiday Oracle PHP library provides convenient access to the global holidays
 
 Install with composer:
 
-```npm i holiday-oracle```
+```composer require offchaindata/holiday-oracle-php```
 
 ## Calling the API
 
 Calling the API is straight-forward:
 
-```javascript
+```php
 const OffChain = require("holiday-oracle")
 const offchain =  new OffChain(INSERT API KEY HERE);
 
