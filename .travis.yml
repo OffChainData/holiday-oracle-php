@@ -1,0 +1,7 @@
+language: php
+php:
+- '7.0'
+sudo: required
+script:
+- ./vendor/bin/phpunit
+
