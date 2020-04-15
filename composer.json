@@ -1,5 +1,6 @@
 {
     "name": "offchaindata/holiday-oracle-php",
+    "version": "0.1",
     "description": "Client library to interact with the Holiday Oracle global holidays API",
     "type": "library",
     "require": {
